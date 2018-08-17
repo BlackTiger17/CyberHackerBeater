@@ -2464,7 +2464,7 @@ fi
 if [ $bro = 145 ] || [ $bro = 145 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -2479,7 +2479,7 @@ fi
 if [ $bro = 146 ] || [ $bro = 146 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -2495,7 +2495,7 @@ fi
 if [ $bro = 147 ] || [ $bro = 147 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -2509,7 +2509,7 @@ fi
 if [ $bro = 148 ] || [ $bro = 148 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -2525,7 +2525,7 @@ fi
 if [ $bro = 149 ] || [ $bro = 149 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -2541,7 +2541,7 @@ fi
 if [ $bro = 150 ] || [ $bro = 150 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -2556,7 +2556,7 @@ fi
 if [ $bro = 151 ] || [ $bro = 151 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -2571,7 +2571,7 @@ fi
 if [ $bro = 152 ] || [ $bro = 152 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -2586,7 +2586,7 @@ fi
 if [ $bro = 153 ] || [ $bro = 153 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -2601,7 +2601,7 @@ fi
 if [ $bro = 154 ] || [ $bro = 154 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -2616,7 +2616,7 @@ fi
 if [ $bro = 155 ] || [ $bro = 155 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -2631,7 +2631,7 @@ fi
 if [ $bro = 156 ] || [ $bro = 156 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -2646,7 +2646,7 @@ fi
 if [ $bro = 157 ] || [ $bro = 157 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -2661,7 +2661,7 @@ fi
 if [ $bro = 158 ] || [ $bro = 158 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -2676,7 +2676,7 @@ fi
 if [ $bro = 159 ] || [ $bro = 159 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -2689,7 +2689,7 @@ fi
 if [ $bro = 160 ] || [ $bro = 160 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -2706,7 +2706,7 @@ fi
 if [ $bro = 161 ] || [ $bro = 161 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -2721,7 +2721,7 @@ fi
 if [ $bro = 162 ] || [ $bro = 162 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -2737,7 +2737,7 @@ fi
 if [ $bro = 163 ] || [ $bro = 163 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -2752,7 +2752,7 @@ fi
 if [ $bro = 164 ] || [ $bro = 164 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -2767,7 +2767,7 @@ fi
 if [ $bro = 165 ] || [ $bro = 165 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -2782,7 +2782,7 @@ fi
 if [ $bro = 166 ] || [ $bro = 166 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -2797,7 +2797,7 @@ fi
 if [ $bro = 167 ] || [ $bro = 167 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -2812,7 +2812,7 @@ fi
 if [ $bro = 168 ] || [ $bro = 168 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -2827,7 +2827,7 @@ fi
 if [ $bro = 169 ] || [ $bro = 169 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -2842,7 +2842,7 @@ fi
 if [ $bro = 170 ] || [ $bro = 170 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -2857,7 +2857,7 @@ fi
 if [ $bro = 171 ] || [ $bro = 171 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -2872,7 +2872,7 @@ fi
 if [ $bro = 172 ] || [ $bro = 172 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -2889,7 +2889,7 @@ fi
 if [ $bro = 173 ] || [ $bro = 173 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -2906,7 +2906,7 @@ fi
 if [ $bro = 174 ] || [ $bro = 174 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -2921,7 +2921,7 @@ fi
 if [ $bro = 175 ] || [ $bro = 175 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -2935,7 +2935,7 @@ fi
 if [ $bro = 176 ] || [ $bro = 176 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -2949,7 +2949,7 @@ fi
 if [ $bro = 177 ] || [ $bro = 177 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -2965,7 +2965,7 @@ fi
 if [ $bro = 178 ] || [ $bro = 178 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -2981,7 +2981,7 @@ fi
 if [ $bro = 179 ] || [ $bro = 179 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -2996,7 +2996,7 @@ fi
 if [ $bro = 180 ] || [ $bro = 180 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -3011,7 +3011,7 @@ fi
 if [ $bro = 181 ] || [ $bro = 181 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -3026,7 +3026,7 @@ fi
 if [ $bro = 182 ] || [ $bro = 182 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -3041,7 +3041,7 @@ fi
 if [ $bro = 183 ] || [ $bro = 183 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -3056,7 +3056,7 @@ fi
 if [ $bro = 184 ] || [ $bro = 184 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -3071,7 +3071,7 @@ fi
 if [ $bro = 185 ] || [ $bro = 185 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -3086,7 +3086,7 @@ fi
 if [ $bro = 186 ] || [ $bro = 186 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -3101,7 +3101,7 @@ fi
 if [ $bro = 187 ] || [ $bro = 187 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -3116,7 +3116,7 @@ fi
 if [ $bro = 188 ] || [ $bro = 188 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -3131,7 +3131,7 @@ fi
 if [ $bro = 189 ] || [ $bro = 189 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -3146,7 +3146,7 @@ fi
 if [ $bro = 190 ] || [ $bro = 190 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -3167,7 +3167,7 @@ fi
 if [ $bro = 191 ] || [ $bro = 191 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -3182,7 +3182,7 @@ fi
 if [ $bro = 192 ] || [ $bro = 192 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -3198,7 +3198,7 @@ fi
 if [ $bro = 193 ] || [ $bro = 193 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -3213,7 +3213,7 @@ fi
 if [ $bro = 194 ] || [ $bro = 194 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -3228,7 +3228,7 @@ fi
 if [ $bro = 195 ] || [ $bro = 195 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -3243,7 +3243,7 @@ fi
 if [ $bro = 196 ] || [ $bro = 196 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -3258,7 +3258,7 @@ fi
 if [ $bro = 197 ] || [ $bro = 197 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -3273,7 +3273,7 @@ fi
 if [ $bro = 198 ] || [ $bro = 198 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -3288,7 +3288,7 @@ fi
 if [ $bro = 199 ] || [ $bro = 199 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -3303,7 +3303,7 @@ fi
 if [ $bro = 200 ] || [ $bro = 200 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "BlackTiger"
 sleep 1
 apt update 
 apt upgrade
@@ -3317,11 +3317,11 @@ fi
 
 if [ $bro = 0 ] || [ $bro = 00 ]
 then
-echo "\033[32;1mDARKNESS CYBER TEAM"
+echo "\033[32;1mCyber Hacker Beater"
 sleep 1
-echo "\033[33;1mWe Security"
+echo "\033[33;1mWe are Indonesia"
 sleep 1
-echo " We Not Friends"
+echo " We Are Anonymous"
 sleep 1
 echo "We Are Family"
 sleep 1
@@ -3335,4 +3335,3 @@ echo "\033[32;1mKarna Suatu Hari Nanti Kamu akan Mendapatkannya:)"
 sleep 1
 exit
 fi
-
